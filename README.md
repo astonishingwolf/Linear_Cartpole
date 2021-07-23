@@ -1,4 +1,5 @@
 # linear_cartpole
 This is control simulation of a swing up linear cartpole.
-It contains 
- 
+It contains the structural components and working principle of a linear cartpole 
+Developed the CAD model using Solidworks and Imported the model to matlab for its control Used Pole placement and LQR techniques for the control of the Inverted pendulum which is a part of the Linear Cartpole
+![Alt Text](https://media.giphy.com/media/17hvBa2cUTc025bgEY/giphy.gif)
